@@ -10,4 +10,4 @@ LUA 메뉴를 사용하기 위해서는 LUA 실행기가 필요합니다.
 
 # 질문 & 도움
 > Discord
-- https://discord.gg/8XGZnxhgd4
+- http://bit.ly/3WlOnEg
